@@ -6,7 +6,7 @@
 
 Создаю практичные приложения для повседневных задач.
 
-[![Android app](https://img.shields.io/badge/Android-app-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ivanovevgeny92-eng/ritm-driver-planner)
+[![Android app](https://img.shields.io/badge/Android-app-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/evg-ivan/ritm-driver-planner)
 [![Telegram](https://img.shields.io/badge/Telegram-contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evgeny9149)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## 🚀 Сейчас развиваю
 
-### [«Ритм» — планировщик смен водителя](https://github.com/ivanovevgeny92-eng/ritm-driver-planner)
+### [«Ритм» — планировщик смен водителя](https://github.com/evg-ivan/ritm-driver-planner)
 
 Android-приложение для учёта смен, поездок и расходов на топливо.
 
