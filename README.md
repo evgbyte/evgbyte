@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ivanovevgeny92-eng/ivanovevgeny92-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Evgeny Ivanov
 
-Here are some ideas to get you started:
+### Android developer · creator of «Ритм»
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Создаю практичные приложения для повседневных задач.
+
+[![Android app](https://img.shields.io/badge/Android-app-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ivanovevgeny92-eng/ritm-driver-planner)
+[![Telegram](https://img.shields.io/badge/Telegram-contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evgeny9149)
+
+</div>
+
+---
+
+## 🚀 Сейчас развиваю
+
+### [«Ритм» — планировщик смен водителя](https://github.com/ivanovevgeny92-eng/ritm-driver-planner)
+
+Android-приложение для учёта смен, поездок и расходов на топливо.
+
+- журнал смен, поездок и дохода;
+- учёт расхода топлива и его индивидуальной цены;
+- расчёт ориентира чистого заработка после топлива;
+- погода и оценка спроса по времени;
+- профиль автомобиля и история смен хранятся на устройстве — без аккаунта.
+
+> Оценка спроса строится на публичной погоде, календаре событий и введённых сменах. Это ориентир, а не данные Яндекс Про и не гарантия дохода.
+
+## 🧭 О себе
+
+Мне интересны понятные приложения, полезные расчёты и аккуратное обращение с пользовательскими данными. Сейчас основное внимание уделяю «Ритму».
+
+## 🌐 Контакт
+
+[Написать в Telegram →](https://t.me/evgeny9149)
